@@ -1,0 +1,7 @@
+token = "your gandi token"
+
+[services.your_service]
+suffix = "::1:see:bad:c0de"
+name = "your_subdomain"
+fqdn = "joru.me"
+ttl = 600
