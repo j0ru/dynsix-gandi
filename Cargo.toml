@@ -1,5 +1,5 @@
 [package]
-name = "gandi-ipv6-dyndns"
+name = "dynsix-gandi"
 version = "0.1.0"
 edition = "2021"
 
